@@ -10,6 +10,8 @@
   <a href="#models">Models</a> · <a href="#quick-start"><b>Quick start</b></a> · <a href="#hardware">Hardware</a> · <a href="#documentation">Docs</a> · <a href="https://www.lucebox.com/blog/">Blog</a> · <a href="https://discord.gg/yHfswqZmJQ">Discord</a>
 </p>
 
+> **Fork notice (azjhf-dev, branch `rdna3-7900xtx`).** This fork adds an RX 7900 XTX (RDNA3, gfx1100) launch profile for Inkling 2 Mini plus launch/check scripts. Upstream is pinned at `d0e947392d12efbe7a38a16c59b69e1725050fa8` (Luce-Org/lucebox main, 2026-11-25). Nothing here is upstreamed. See [docs/rdna3-7900xtx.md](docs/rdna3-7900xtx.md).
+
 <p align="center">
   <a href="https://www.lucebox.com/"><img src="https://img.shields.io/badge/lucebox.com-f5c842?style=for-the-badge&logo=safari&logoColor=f5c842&labelColor=090909" alt="lucebox.com"></a>
   <a href="https://huggingface.co/Lucebox"><img src="https://img.shields.io/badge/HuggingFace-f5c842?style=for-the-badge&logo=huggingface&logoColor=f5c842&labelColor=090909" alt="HuggingFace"></a>
